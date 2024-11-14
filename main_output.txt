@@ -1,0 +1,11 @@
+Welcome to Rock, Paper, Scissors!
+Enter your choice (rock, paper, or scissors): 
+Rock
+
+You chose rock.
+The computer chose scissors.
+You win!
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
